@@ -1,0 +1,20 @@
+
+
+.form-group{
+    display: flex;
+    justify-content: center;
+}
+
+.modal-content{
+    margin-top: 300px;
+}
+
+.btn.btn-create-tsk.outline-primary.task-btn{
+border-color: grey;
+}
+
+.message{
+    color: red;
+    font-size: 20px;
+    padding-right: 10px;
+}

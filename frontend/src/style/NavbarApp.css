@@ -1,0 +1,19 @@
+
+.navbar{
+    height:50px;
+    
+  }
+  .nav-link:hover{
+   font-size: 120%;
+   color:pink;
+   text-decoration: underline
+  }
+  
+  .navbar.container{
+    font-size: 25px;
+  }
+
+  .nav-link.navbar-brand{
+    font-size: 25px;
+ 
+  }

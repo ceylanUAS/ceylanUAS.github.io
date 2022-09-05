@@ -1,0 +1,104 @@
+
+
+.sticker{
+    border: 3px solid rgb(87, 87, 87);
+    width: 100%;
+    height: 80px;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    margin:auto;
+    
+  }
+  
+  .row-sticker{
+    height:100px;
+    align-items: center;
+
+  }
+
+
+.task-label-sticker{
+  width: 300px;
+  align-items: center;
+  justify-content: center;
+  margin:auto;
+}
+
+.label-tbn-ctr{
+  width: 800px;
+  height: 100px;
+  align-items: center;
+  justify-content: center;
+  margin:auto;
+}
+
+
+.buttons{
+  height: 100px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin:auto;
+}
+
+
+.sticker-card{
+  height: 180px;
+  width: 280px;
+  border: 1px solid gray;
+  background-color: rgb(255, 211, 233);
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding-top: 40px;
+  font-size: 19px;
+  overflow: auto;
+  padding-left: 5px;
+  border-radius: 10%;
+ }
+
+ .container{
+  height: 50px;
+ }
+
+ .output-sticker{
+  height: 600px;
+  width: 100%;
+  top: 400px;
+ }
+
+ .value-card{
+  display: block;
+  word-wrap: break-word;
+  max-width: 250px;
+  margin-left:15px;
+ }
+
+ h4{
+  margin-left: 5%;
+}
+
+
+.col.sticker-header{
+  text-align: center;
+}
+
+.done{
+  
+  background-color: rgb(165, 213, 165);
+}
+
+.sticker-header.col{
+  margin-top: 100px;
+}
+.output-sticker.col{
+  margin-top: 200px;
+
+}
+
+
+.div.modal-footer{
+  justify-content: space-between;
+}
+
